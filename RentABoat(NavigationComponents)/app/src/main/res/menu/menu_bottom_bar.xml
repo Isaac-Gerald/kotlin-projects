@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/feedFragment"
+        android:icon="@drawable/ic_boat_24"
+        android:iconTint="@color/design_default_color_primary"
+        android:orderInCategory="10"
+        android:title="@string/action_feeds" />
+    <item
+        android:id="@+id/ordersFragment"
+        android:icon="@drawable/ic_dashboard_24"
+        android:iconTint="@color/design_default_color_primary"
+        android:orderInCategory="20"
+        android:title="@string/action_orders" />
+
+</menu>

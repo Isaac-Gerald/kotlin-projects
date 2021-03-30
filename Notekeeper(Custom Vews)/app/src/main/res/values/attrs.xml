@@ -1,0 +1,17 @@
+<resources>
+
+    <attr name="colors" format="reference" />
+
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetBackgroundColor" format="color" />
+        <attr name="appWidgetTextColor" format="color" />
+    </declare-styleable>
+
+<!--    <declare-styleable name="ColorSelector">-->
+<!--        <attr name="colors" />-->
+<!--    </declare-styleable>-->
+
+    <declare-styleable name="ColorSlider">
+        <attr name="colors" />
+    </declare-styleable>
+</resources>

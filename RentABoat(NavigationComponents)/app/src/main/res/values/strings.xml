@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rent-A-Boat(Navigation Components)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_feeds">Feeds</string>
+    <string name="action_orders">Orders</string>
+</resources>
